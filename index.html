@@ -249,7 +249,7 @@ input[type=range]::-moz-range-thumb{width:30px;height:30px;border-radius:50%;bor
     <div class="card">
       <h2>Dein Name</h2>
       <p class="sub">So sehen dich die anderen.</p>
-      <input type="text" id="onName" maxlength="16" autocomplete="off" placeholder="z. B. Justin">
+      <input type="text" id="onName" maxlength="16" autocomplete="off" placeholder="Dein Name">
     </div>
     <div class="card">
       <h2>Neues Spiel</h2>
@@ -3400,7 +3400,7 @@ function renderChips(boxId,allId){
 }
 function openSetup(){
   hideIntro();MODE='local';S=lsGet('sq_game',null);if(S&&typeof S.played!=='number')S.played=0;
-  draft=S?S.names.slice():(lsGet('sq_names',null)||['Justin','Anton']);
+  draft=S?S.names.slice():(lsGet('sq_names',null)||['']);
   draftCats=activeCats.slice();namesTouched=false;
   $('optPoints').checked=S?!!S.points:lsGet('sq_points',true);
   $('resume').hidden=!S;if(S)$('resume').textContent='Weiterspielen (Runde '+(S.round+1)+')';
@@ -3417,7 +3417,7 @@ function applyCats(){
 function enterGame(){MODE='local';showOnly('game');updateTools();$('next').hidden=true;$('nextWait').hidden=true;renderScores();startRound()}
 function newGame(){
   var list=draft.map(function(v){return String(v||'').trim()});
-  if(list.some(function(v){return !v})){$('nErr').textContent='Gib allen Spielern einen Namen oder entferne leere Plätze';return}
+  if(list.some(function(v){return !v})){$('nErr').textContent=list.length===1?'Gib deinen Namen ein':'Gib allen Spielern einen Namen oder entferne leere Plätze';return}
   var low=list.map(function(v){return v.toLowerCase()});
   if(low.some(function(v,i){return low.indexOf(v)!==i})){$('nErr').textContent='Jeder Name darf nur einmal vorkommen';return}
   if(!applyCats())return;
