@@ -1,0 +1,155 @@
+# Neue Fragen. Format wie fragen.txt
+Geografie|n|Wie viele Einwohner hat China ungefähr?|1410000000|Menschen
+Geografie|n|Wie viele Einwohner hat Brasilien ungefähr?|212000000|Menschen
+Geografie|n|Wie viele Einwohner hat Kanada ungefähr?|41000000|Menschen
+Geografie|n|Wie viele Einwohner hat Australien ungefähr?|27000000|Menschen
+Geografie|n|Wie weit ist es Luftlinie von Köln nach Hamburg?|357|Kilometer
+Geografie|n|Wie weit ist es Luftlinie von Berlin nach Rom?|1184|Kilometer
+Geografie|n|Wie weit ist es Luftlinie von München nach Wien?|355|Kilometer
+Geografie|n|Wie lang ist die Elbe?|1094|Kilometer
+Geografie|n|Wie hoch ist der Großglockner?|3798|Meter
+Geografie|n|Wie tief ist der Baikalsee an der tiefsten Stelle?|1642|Meter
+Geografie|n|Wie groß ist Bayern?|70542|Quadratkilometer
+Geografie|n|Wie groß ist das Saarland?|2570|Quadratkilometer
+Geografie|w|Was ist die Hauptstadt von Kenia?|Nairobi
+Geografie|w|Was ist die Hauptstadt von Marokko?|Rabat
+Geografie|w|Was ist die Hauptstadt von Norwegen?|Oslo
+Geografie|w|Was ist die Hauptstadt von Portugal?|Lissabon;Lisbon;Lisboa
+Geografie|w|Was ist der höchste Berg Deutschlands?|Zugspitze
+Geografie|w|In welchem Land steht der Kilimandscharo?|Tansania;Tanzania
+Geografie|w|Welches Meer liegt zwischen Europa und Afrika?|Mittelmeer;Mediterranean
+Geografie|w|Was ist die größte heiße Wüste der Welt?|Sahara
+Geografie|w|Was ist der längste Fluss der Welt?|Nil;Amazonas
+Geschichte|n|In welchem Jahr wurde Karl der Große zum Kaiser gekrönt?|800|Jahr
+Geschichte|n|In welchem Jahr wurde die Magna Carta unterzeichnet?|1215|Jahr
+Geschichte|n|In welchem Jahr endete der Dreißigjährige Krieg?|1648|Jahr
+Geschichte|n|In welchem Jahr fand die Oktoberrevolution in Russland statt?|1917|Jahr
+Geschichte|n|In welchem Jahr wurden die Römischen Verträge (EWG) unterzeichnet?|1957|Jahr
+Geschichte|n|In welchem Jahr flog Juri Gagarin als erster Mensch ins All?|1961|Jahr
+Geschichte|n|In welchem Jahr wurde Willy Brandt Bundeskanzler?|1969|Jahr
+Geschichte|n|Wie alt wurde Konrad Adenauer?|91|Jahre
+Geschichte|n|In welchem Jahr fanden die Anschläge vom 11. September statt?|2001|Jahr
+Geschichte|n|Wie viele Jahre dauerte der Hundertjährige Krieg tatsächlich?|116|Jahre
+Geschichte|w|Wer war der erste Mensch im Weltall?|Juri Gagarin;Gagarin;Yuri Gagarin
+Geschichte|w|Welcher Herrscher wurde im Jahr 800 zum Kaiser gekrönt?|Karl der Große;Karl;Charlemagne
+Geschichte|w|Wer war der erste Präsident Russlands nach der Sowjetunion?|Boris Jelzin;Jelzin;Yeltsin
+Geschichte|w|Welcher US-Präsident führte die Union im Amerikanischen Bürgerkrieg?|Abraham Lincoln;Lincoln
+Geschichte|w|Wer war der erste römische Kaiser?|Augustus;Octavian
+Geschichte|w|In welcher Stadt wurde der Westfälische Frieden geschlossen?|Münster;Osnabrück
+Politik|n|Wie viele Personen waren bis 2025 Bundeskanzler?|10|Personen
+Politik|n|Wie viele Bundespräsidenten gab es bis einschließlich Frank-Walter Steinmeier?|12|Personen
+Politik|n|Wie viele Mitglieder hat der Bundesrat?|69|Mitglieder
+Politik|n|Wie viele Amtssprachen hat die EU?|24|Sprachen
+Politik|n|Wie viele Länder zahlen seit 2026 mit dem Euro?|21|Länder
+Politik|n|Wie viele Abgeordnete hat das britische Unterhaus?|650|Abgeordnete
+Politik|n|Wie viele Mitglieder hat die EU-Kommission (inklusive Präsidentin)?|27|Mitglieder
+Politik|n|Wie viele Artikel hat die Charta der Vereinten Nationen?|111|Artikel
+Politik|w|Wofür steht die Abkürzung UN?|Vereinte Nationen;United Nations
+Politik|w|Welche Bank legt den Leitzins für den Euro fest?|Europäische Zentralbank;EZB;ECB
+Politik|w|In welcher Stadt sitzt der Europäische Gerichtshof?|Luxemburg;Luxembourg
+Politik|w|Wie heißt das Unterhaus des britischen Parlaments?|House of Commons;Unterhaus
+Politik|w|Wie heißt das Parlament Russlands (Unterhaus)?|Duma;Staatsduma
+Politik|w|Wie heißt das Verfahren, mit dem der Bundestag einen Kanzler durch einen neuen ersetzt?|Konstruktives Misstrauensvotum;Misstrauensvotum
+Wissenschaft und Natur|n|Wie viele Planeten hat unser Sonnensystem?|8|Planeten
+Wissenschaft und Natur|n|Wie viele Beine hat eine Spinne?|8|Beine
+Wissenschaft und Natur|n|Wie viele Tage braucht der Mond für eine Erdumrundung?|27.3|Tage
+Wissenschaft und Natur|n|Wie oft schlägt das Herz eines Erwachsenen in Ruhe ungefähr pro Minute?|70|Schläge
+Wissenschaft und Natur|n|Wie viel Prozent der Luft sind Sauerstoff?|21|Prozent
+Wissenschaft und Natur|n|Wie alt ist die Erde ungefähr?|4.6|Milliarden Jahre
+Wissenschaft und Natur|n|Wie lang kann ein Blauwal ungefähr werden?|30|Meter
+Wissenschaft und Natur|w|Wie lautet das chemische Symbol für Eisen?|Fe
+Wissenschaft und Natur|w|Welcher Planet wird „der Rote Planet“ genannt?|Mars
+Wissenschaft und Natur|w|Welches Organ pumpt das Blut durch den Körper?|Herz
+Wissenschaft und Natur|w|Wie heißt der Vorgang, mit dem Pflanzen aus Licht Energie gewinnen?|Photosynthese;Fotosynthese
+Wissenschaft und Natur|w|Welches Element hat das Symbol O?|Sauerstoff;Oxygen
+Musik|n|Wie viele Saiten hat eine Geige?|4|Saiten
+Musik|n|In welchem Jahr starb Mozart?|1791|Jahr
+Musik|n|In welchem Jahr erschien Madonnas „Like a Prayer“?|1989|Jahr
+Musik|n|In welchem Jahr gründeten sich Die Toten Hosen?|1982|Jahr
+Musik|n|In welchem Jahr erschien „Blinding Lights“ von The Weeknd?|2019|Jahr
+Musik|n|In welchem Jahr gewann Måneskin den Eurovision Song Contest?|2021|Jahr
+Musik|w|Wer sang „Purple Rain“?|Prince
+Musik|w|Wer sang „Blinding Lights“?|The Weeknd;Weeknd
+Musik|w|Aus welcher Stadt kamen die Beatles?|Liverpool
+Musik|w|Welche Band hat Campino als Sänger?|Die Toten Hosen;Toten Hosen
+Musik|w|Welches Instrument spielt ein Pianist?|Klavier;Piano;Flügel
+Film und Serien|n|In welchem Jahr erschien „Der Pate“?|1972|Jahr
+Film und Serien|n|In welchem Jahr erschien „Inception“?|2010|Jahr
+Film und Serien|n|In welchem Jahr erschien „Ziemlich beste Freunde“?|2011|Jahr
+Film und Serien|n|Wie viele Staffeln hat „Stranger Things“?|5|Staffeln
+Film und Serien|n|Wie viele Oscars gewann „Parasite“?|4|Oscars
+Film und Serien|n|Wie viele Zwerge leben bei Schneewittchen?|7|Zwerge
+Film und Serien|w|Wie heißt der Kapitän der „Black Pearl“?|Jack Sparrow;Sparrow;Captain Jack Sparrow
+Film und Serien|w|Wie heißt der Hund der Simpsons auf Deutsch?|Knecht Ruprecht;Santa's Little Helper
+Film und Serien|w|In welcher Stadt spielt „Friends“?|New York;NYC;New York City
+Film und Serien|w|Wie heißt der junge Löwe in „Der König der Löwen“?|Simba
+Film und Serien|w|Wie heißt der Zauberer-Schüler mit der Narbe auf der Stirn?|Harry Potter;Harry;Potter
+Sport|n|Wie viele Spieler hat eine Fußballmannschaft auf dem Feld?|11|Spieler
+Sport|n|Wie viele Minuten dauert ein Fußballspiel regulär?|90|Minuten
+Sport|n|Wie viele Vereine spielen in der Bundesliga?|18|Vereine
+Sport|n|Wie viele Spieler einer Eishockeymannschaft stehen auf dem Eis (mit Torwart)?|6|Spieler
+Sport|n|Wie lang ist eine Runde im Leichtathletik-Stadion?|400|Meter
+Sport|n|In welchem Jahr fand die Fußball-WM in Deutschland statt?|2006|Jahr
+Sport|n|Wie viele Kegel stehen beim Bowling?|10|Kegel
+Sport|n|Wie viele Minuten dauert eine Runde im Profiboxen?|3|Minuten
+Sport|w|Welches Land wurde 2010 Fußball-Weltmeister?|Spanien;Spain
+Sport|w|In welcher Sportart spielt man mit einem Puck?|Eishockey;Hockey
+Sport|w|In welcher Stadt fanden die Olympischen Sommerspiele 2021 statt?|Tokio;Tokyo
+Sport|w|Welcher Formel-1-Fahrer hat wie Schumacher sieben WM-Titel?|Lewis Hamilton;Hamilton
+Sport|w|Wie heißt das Stadion des FC Bayern?|Allianz Arena
+Technik und Games|n|Wie viele Bits hat ein Byte?|8|Bits
+Technik und Games|n|In welchem Jahr startete Netflix in Deutschland?|2014|Jahr
+Technik und Games|n|In welchem Jahr wurde ChatGPT veröffentlicht?|2022|Jahr
+Technik und Games|n|In welchem Jahr erschien das erste „The Legend of Zelda“?|1986|Jahr
+Technik und Games|n|In welchem Jahr kam die erste Xbox raus?|2001|Jahr
+Technik und Games|n|In welchem Jahr wurde Nintendo gegründet?|1889|Jahr
+Technik und Games|n|In welchem Jahr erschien Windows 95?|1995|Jahr
+Technik und Games|w|Wie heißt Googles Betriebssystem für Smartphones?|Android
+Technik und Games|w|Wofür steht „USB“?|Universal Serial Bus
+Technik und Games|w|Welche Firma brachte den Game Boy heraus?|Nintendo
+Technik und Games|w|Wie heißt der blaue Igel von Sega?|Sonic
+Technik und Games|w|Welches Unternehmen entwickelt Windows?|Microsoft
+Alltag und Popkultur|n|Wie viele Tage hat ein Schaltjahr?|366|Tage
+Alltag und Popkultur|n|Wie viele Zentimeter sind ein Zoll?|2.54|Zentimeter
+Alltag und Popkultur|n|Wie viele Karten hat ein Pokerblatt ohne Joker?|52|Karten
+Alltag und Popkultur|n|Wie viele Figuren hat ein Spieler beim Schach?|16|Figuren
+Alltag und Popkultur|n|Wie viele Kerzen hat ein Adventskranz?|4|Kerzen
+Alltag und Popkultur|n|Wie viele Monate haben 31 Tage?|7|Monate
+Alltag und Popkultur|w|Welche Farbe entsteht aus Rot und Gelb?|Orange
+Alltag und Popkultur|w|Wie heißt der beste Freund von SpongeBob?|Patrick;Patrick Star
+Alltag und Popkultur|w|Welches Tier ist das Wappentier Deutschlands?|Adler;Bundesadler
+Alltag und Popkultur|w|Wie heißt das Rentier mit der roten Nase?|Rudolph;Rudolf
+Alltag und Popkultur|w|Mit welchem Gerät misst man die Temperatur?|Thermometer
+# Größenvergleich: Kat|s|Frage|Antwort|Einheit|Referenz|Referenzwert|Referenzform|Objekt|Objektform
+Größenvergleich|s|Wie hoch ist der Burj Khalifa im Vergleich zum Kölner Dom?|828|Meter|Kölner Dom|157|koelnerdom|Burj Khalifa|burj
+Größenvergleich|s|Wie hoch ist das Empire State Building (mit Antenne) im Vergleich zum Eiffelturm?|443|Meter|Eiffelturm|330|eiffel|Empire State Building|empire
+Größenvergleich|s|Wie hoch ist der Mount Everest im Vergleich zur Zugspitze?|8849|Meter|Zugspitze|2962|zugspitze|Everest|everest
+Größenvergleich|s|Wie hoch ist der Mont Blanc im Vergleich zur Zugspitze?|4806|Meter|Zugspitze|2962|zugspitze|Mont Blanc|montblanc
+Größenvergleich|s|Wie hoch ist die Zugspitze im Vergleich zum Brocken?|2962|Meter|Brocken|1141|brocken|Zugspitze|zugspitze
+Größenvergleich|s|Wie hoch ist der Kilimandscharo im Vergleich zur Zugspitze?|5895|Meter|Zugspitze|2962|zugspitze|Kilimandscharo|kilimandscharo
+Größenvergleich|s|Wie hoch ist der Berliner Fernsehturm im Vergleich zum Kölner Dom?|368|Meter|Kölner Dom|157|koelnerdom|Fernsehturm|fernsehturm
+Größenvergleich|s|Wie hoch ist der Eiffelturm im Vergleich zum Kölner Dom?|330|Meter|Kölner Dom|157|koelnerdom|Eiffelturm|eiffel
+Größenvergleich|s|Wie hoch ist das Ulmer Münster im Vergleich zum Kölner Dom?|161.5|Meter|Kölner Dom|157|koelnerdom|Ulmer Münster|ulm
+Größenvergleich|s|Wie hoch ist die Cheops-Pyramide heute im Vergleich zum Kölner Dom?|139|Meter|Kölner Dom|157|koelnerdom|Cheops|cheops
+Größenvergleich|s|Wie hoch ist die Freiheitsstatue (mit Sockel) im Vergleich zum Brandenburger Tor?|93|Meter|Brandenburger Tor|26|brandenburg|Freiheitsstatue|liberty
+Größenvergleich|s|Wie hoch ist die Elbphilharmonie im Vergleich zum Brandenburger Tor?|110|Meter|Brandenburger Tor|26|brandenburg|Elbphilharmonie|elbphil
+Größenvergleich|s|Wie hoch ist der Big Ben im Vergleich zur Freiheitsstatue (mit Sockel)?|96|Meter|Freiheitsstatue|93|liberty|Big Ben|bigben
+Größenvergleich|s|Wie hoch hängt ein Basketballkorb im Vergleich zu einem 1,80 m großen Menschen?|3.05|Meter|Mensch|1.8|person|Korb|hoop
+Größenvergleich|s|Wie hoch ist ein Fußballtor im Vergleich zu einem 1,80 m großen Menschen?|2.44|Meter|Mensch|1.8|person|Tor|goal
+Größenvergleich|s|Wie groß wird eine ausgewachsene Giraffe ungefähr im Vergleich zu einem Menschen?|5.5|Meter|Mensch|1.8|person|Giraffe|giraffe
+Größenvergleich|s|Wie hoch ist ein Londoner Doppeldeckerbus im Vergleich zu einem Menschen?|4.4|Meter|Mensch|1.8|person|Doppeldecker|bus
+Größenvergleich|s|Wie groß war der größte Mensch aller Zeiten im Vergleich zu einem 1,80 m großen Menschen?|2.72|Meter|Mensch|1.8|person|Rekord|person
+Größenvergleich|s|Wie hoch ist der Brocken im Vergleich zum Kölner Dom?|1141|Meter|Kölner Dom|157|koelnerdom|Brocken|brocken
+Größenvergleich|s|Wie groß ist ein Apfel im Vergleich zu einer Waldameise?|8|Zentimeter|Ameise|0.9|ant|Apfel|apple
+Größenvergleich|s|Wie groß ist ein Gummibärchen im Vergleich zu einer Waldameise?|2|Zentimeter|Ameise|0.9|ant|Gummibärchen|gummybear
+Größenvergleich|s|Wie hoch ist ein Smartphone im Vergleich zu einem Apfel?|15|Zentimeter|Apfel|8|apple|Smartphone|phone
+Größenvergleich|s|Wie lang ist ein Straußenei im Vergleich zu einem Hühnerei?|15|Zentimeter|Hühnerei|5.7|egg|Straußenei|egg
+Größenvergleich|s|Wie groß ist ein Kaiserpinguin im Vergleich zu einer sitzenden Hauskatze?|1.2|Meter|Hauskatze|0.3|cat|Kaiserpinguin|penguin
+Größenvergleich|s|Wie groß ist ein Strauß im Vergleich zu einem Kaiserpinguin?|2.5|Meter|Kaiserpinguin|1.2|penguin|Strauß|ostrich
+Größenvergleich|s|Wie hoch ist ein Elefantenbulle (Schulterhöhe) im Vergleich zu einem Auto?|3.3|Meter|Auto|1.5|car|Elefant|elephant
+Größenvergleich|s|Wie hoch ist eine Giraffe im Vergleich zu einem Auto?|5.5|Meter|Auto|1.5|car|Giraffe|giraffe
+Größenvergleich|s|Wie lang ist ein Blauwal, wenn er sich neben eine Giraffe auf die Schwanzflosse stellt?|30|Meter|Giraffe|5.5|giraffe|Blauwal|whale
+Größenvergleich|s|Wie groß ist ein aufgerichteter Eisbär im Vergleich zu einem Menschen?|3|Meter|Mensch|1.8|person|Eisbär|polarbear
+Größenvergleich|s|Wie hoch ist ein Doppeldeckerbus im Vergleich zu einem Kaiserpinguin?|4.4|Meter|Kaiserpinguin|1.2|penguin|Doppeldecker|bus
+Größenvergleich|s|Wie hoch hängt ein Basketballkorb im Vergleich zu einem Kaiserpinguin?|3.05|Meter|Kaiserpinguin|1.2|penguin|Korb|hoop
+Größenvergleich|s|Wie hoch ist die Freiheitsstatue (mit Sockel) im Vergleich zu einem Blauwal auf der Schwanzflosse?|93|Meter|Blauwal|30|whale|Freiheitsstatue|liberty

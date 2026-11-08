@@ -1,0 +1,301 @@
+# Kategorie | Typ (n=Zahl, w=Wort) | Frage | Antwort (bei w: Varianten mit ;) | Einheit (nur n)
+Geografie|n|Wie viele Einwohner hat Deutschland ungefähr?|83600000|Menschen
+Geografie|n|Wie viele Einwohner hat Frankreich ungefähr?|68400000|Menschen
+Geografie|n|Wie viele Einwohner hat Österreich ungefähr?|9200000|Menschen
+Geografie|n|Wie viele Einwohner hat die Schweiz ungefähr?|9000000|Menschen
+Geografie|n|Wie viele Einwohner haben die USA ungefähr?|340000000|Menschen
+Geografie|n|Wie viele Einwohner hat Indien ungefähr?|1450000000|Menschen
+Geografie|n|Wie viele Menschen leben ungefähr auf der Erde?|8200000000|Menschen
+Geografie|n|Wie viele Einwohner hat Island ungefähr?|390000|Menschen
+Geografie|n|Wie viele Einwohner hat Luxemburg ungefähr?|670000|Menschen
+Geografie|n|Wie weit ist es Luftlinie von Köln nach Berlin?|477|Kilometer
+Geografie|n|Wie weit ist es Luftlinie von Berlin nach München?|504|Kilometer
+Geografie|n|Wie weit ist es Luftlinie von Hamburg nach München?|612|Kilometer
+Geografie|n|Wie weit ist es Luftlinie von Köln nach Paris?|403|Kilometer
+Geografie|n|Wie weit ist es Luftlinie von Frankfurt nach New York?|6200|Kilometer
+Geografie|n|Wie lang ist der Erdumfang am Äquator?|40075|Kilometer
+Geografie|n|Wie lang ist die Donau ungefähr?|2850|Kilometer
+Geografie|n|Wie lang ist der Rhein?|1233|Kilometer
+Geografie|n|Wie groß ist Deutschland?|357592|Quadratkilometer
+Geografie|n|Wie groß ist Nordrhein-Westfalen?|34112|Quadratkilometer
+Geografie|n|Wie groß ist Russland ungefähr?|17098000|Quadratkilometer
+Geografie|n|Wie groß ist der Bodensee?|536|Quadratkilometer
+Geografie|n|Wie hoch ist die Zugspitze?|2962|Meter
+Geografie|n|Wie hoch ist der Mount Everest?|8849|Meter
+Geografie|n|Wie tief ist der Marianengraben an der tiefsten Stelle?|10994|Meter
+Geografie|w|Was ist die Hauptstadt von Australien?|Canberra
+Geografie|w|Was ist die Hauptstadt von Kanada?|Ottawa
+Geografie|w|Was ist die Hauptstadt der Türkei?|Ankara
+Geografie|w|Was ist die Hauptstadt von Brasilien?|Brasília;Brasilia
+Geografie|w|Was ist die Hauptstadt von Neuseeland?|Wellington
+Geografie|w|Was ist die Hauptstadt von Kroatien?|Zagreb
+Geografie|w|Welches Bundesland ist flächenmäßig das größte?|Bayern
+Geografie|w|Welches Bundesland hat die meisten Einwohner?|Nordrhein-Westfalen;NRW
+Geografie|w|Was ist das kleinste Land der Welt?|Vatikanstadt;Vatikan;Vatikanstaat
+Geografie|w|Was ist die größte Insel der Welt?|Grönland;Greenland
+Geografie|w|Welches Land hat die meisten Einwohner der Welt?|Indien;India
+Geografie|w|Welcher Fluss fließt durch Wien?|Donau
+Geografie|w|Was ist der größte See, der komplett in Deutschland liegt?|Müritz
+Geografie|w|In welchem Land liegt die Stadt Timbuktu?|Mali
+Geschichte|n|In welchem Jahr fiel die Berliner Mauer?|1989|Jahr
+Geschichte|n|In welchem Jahr wurde die Berliner Mauer gebaut?|1961|Jahr
+Geschichte|n|In welchem Jahr wurde Deutschland wiedervereinigt?|1990|Jahr
+Geschichte|n|In welchem Jahr wurde die Bundesrepublik Deutschland gegründet?|1949|Jahr
+Geschichte|n|In welchem Jahr endete der Zweite Weltkrieg?|1945|Jahr
+Geschichte|n|In welchem Jahr begann der Erste Weltkrieg?|1914|Jahr
+Geschichte|n|In welchem Jahr wurde das Deutsche Kaiserreich gegründet?|1871|Jahr
+Geschichte|n|In welchem Jahr begann die Französische Revolution?|1789|Jahr
+Geschichte|n|In welchem Jahr veröffentlichte Luther seine 95 Thesen?|1517|Jahr
+Geschichte|n|In welchem Jahr erreichte Kolumbus Amerika?|1492|Jahr
+Geschichte|n|In welchem Jahr erklärten die USA ihre Unabhängigkeit?|1776|Jahr
+Geschichte|n|In welchem Jahr eroberten die Osmanen Konstantinopel?|1453|Jahr
+Geschichte|n|In welchem Jahr fand die Schlacht bei Waterloo statt?|1815|Jahr
+Geschichte|n|In welchem Jahr landeten Menschen zum ersten Mal auf dem Mond?|1969|Jahr
+Geschichte|n|In welchem Jahr sank die Titanic?|1912|Jahr
+Geschichte|n|In welchem Jahr ereignete sich die Katastrophe von Tschernobyl?|1986|Jahr
+Geschichte|n|In welchem Jahr wurde John F. Kennedy ermordet?|1963|Jahr
+Geschichte|n|In welchem Jahr wurde Abraham Lincoln ermordet?|1865|Jahr
+Geschichte|n|In welchem Jahr wurde Winston Churchill zum ersten Mal britischer Premierminister?|1940|Jahr
+Geschichte|n|In welchem Jahr wurde Konrad Adenauer Bundeskanzler?|1949|Jahr
+Geschichte|n|In welchem Jahr wurde Helmut Kohl Bundeskanzler?|1982|Jahr
+Geschichte|n|In welchem Jahr wurde Gerhard Schröder Bundeskanzler?|1998|Jahr
+Geschichte|n|In welchem Jahr wurde Angela Merkel Bundeskanzlerin?|2005|Jahr
+Geschichte|n|Wie viele Jahre war Angela Merkel Bundeskanzlerin?|16|Jahre
+Geschichte|n|Wie alt wurde Altkanzler Helmut Schmidt?|96|Jahre
+Geschichte|n|In welchem Jahr wurde Nelson Mandela Präsident Südafrikas?|1994|Jahr
+Geschichte|n|In welchem Jahr wurde Barack Obama US-Präsident?|2009|Jahr
+Geschichte|w|Wer war der erste Bundeskanzler der Bundesrepublik?|Konrad Adenauer;Adenauer
+Geschichte|w|Wer war der erste Präsident der USA?|George Washington;Washington
+Geschichte|w|Wer war Bundeskanzler bei der Wiedervereinigung 1990?|Helmut Kohl;Kohl
+Geschichte|w|Wer sagte 1963 in Berlin „Ich bin ein Berliner“?|John F. Kennedy;Kennedy;JFK;John Kennedy
+Geschichte|w|Wer betrat als erster Mensch den Mond?|Neil Armstrong;Armstrong
+Geschichte|w|Wer war der erste Bundespräsident?|Theodor Heuss;Heuss
+Geschichte|w|Wer war der letzte Staatschef der Sowjetunion?|Michail Gorbatschow;Gorbatschow;Gorbachev;Gorbatschov
+Geschichte|w|Wer war 1871 der erste Reichskanzler des Kaiserreichs?|Otto von Bismarck;Bismarck
+Geschichte|w|Welcher Bundeskanzler kniete 1970 in Warschau nieder?|Willy Brandt;Brandt
+Geschichte|w|Welche Stadt wurde im Jahr 79 durch den Vesuv zerstört?|Pompeji;Pompeii;Pompei
+Geschichte|w|Wer war die erste Bundeskanzlerin Deutschlands?|Angela Merkel;Merkel
+Geschichte|w|Wie hieß die erste deutsche Demokratie von 1918 bis 1933?|Weimarer Republik;Weimar
+Politik|n|Wie viele Bundesländer hat Deutschland?|16|Bundesländer
+Politik|n|Wie viele Sitze hat der Bundestag seit der Wahl 2025?|630|Sitze
+Politik|n|Wie viele Mitgliedstaaten haben die Vereinten Nationen?|193|Staaten
+Politik|n|Wie viele Länder sind in der EU?|27|Länder
+Politik|n|Wie viele Mitgliedstaaten hat die NATO?|32|Staaten
+Politik|n|Wie viele Jahre dauert eine Wahlperiode des Bundestags?|4|Jahre
+Politik|n|Wie viele Jahre dauert eine Amtszeit des Bundespräsidenten?|5|Jahre
+Politik|n|Wie alt muss man mindestens sein, um Bundespräsident zu werden?|40|Jahre
+Politik|n|Ab welchem Alter darf man bei der Bundestagswahl wählen?|18|Jahre
+Politik|n|Wie viel Prozent braucht eine Partei, um über die Sperrklausel in den Bundestag zu kommen?|5|Prozent
+Politik|n|Wie viele ständige Mitglieder hat der UN-Sicherheitsrat?|5|Mitglieder
+Politik|n|Wie viele Senatoren hat der US-Senat?|100|Senatoren
+Politik|n|Wie viele Abgeordnete hat das US-Repräsentantenhaus?|435|Abgeordnete
+Politik|n|Wie viele Abgeordnete hat das Europäische Parlament seit 2024?|720|Abgeordnete
+Politik|n|Wie viele Sterne hat die Europaflagge?|12|Sterne
+Politik|n|Wie viele Stimmen hat man bei der Bundestagswahl?|2|Stimmen
+Politik|n|Wie viele Richter hat das Bundesverfassungsgericht?|16|Richter
+Politik|n|Wie alt muss man mindestens sein, um US-Präsident zu werden?|35|Jahre
+Politik|n|Wie viele Artikel hat das Grundgesetz (letzte Artikelnummer)?|146|Artikel
+Politik|n|Wie oft darf ein US-Präsident höchstens gewählt werden?|2|Mal
+Politik|w|Wie heißt die deutsche Verfassung?|Grundgesetz
+Politik|w|Welches Gremium wählt den Bundespräsidenten?|Bundesversammlung
+Politik|w|Wie heißt die Vertretung der Bundesländer auf Bundesebene?|Bundesrat
+Politik|w|In welcher Stadt sitzt das Bundesverfassungsgericht?|Karlsruhe
+Politik|w|In welcher Stadt hat das Europäische Parlament seinen offiziellen Sitz?|Straßburg;Strasbourg
+Politik|w|In welcher Stadt ist das Hauptquartier der Vereinten Nationen?|New York;NYC;New York City
+Politik|w|In welcher Stadt ist das Hauptquartier der NATO?|Brüssel;Brussels;Bruxelles
+Politik|w|In welcher Stadt sitzt die Europäische Zentralbank?|Frankfurt am Main;Frankfurt
+Politik|w|Wie heißt der Amtssitz des Bundespräsidenten in Berlin?|Schloss Bellevue;Bellevue
+Politik|w|In welcher Straße wohnt der britische Premierminister?|Downing Street;10 Downing Street
+Politik|w|Wie heißt das israelische Parlament?|Knesset
+Politik|w|Wie heißt das Parlament der USA?|Kongress;Congress;US-Kongress
+Politik|w|In welcher Stadt sitzt der Internationale Strafgerichtshof?|Den Haag;Haag;The Hague
+Politik|w|Wie heißt das Gremium, das den US-Präsidenten formell wählt?|Electoral College;Wahlleute;Wahlmänner;Wahlmännerkollegium;Wahlkollegium
+Politik|w|Wie heißt das Amt des deutschen Regierungschefs?|Bundeskanzler;Bundeskanzlerin;Kanzler;Kanzlerin
+Wissenschaft und Natur|n|Wie viele Knochen hat ein erwachsener Mensch?|206|Knochen
+Wissenschaft und Natur|n|Wie weit ist der Mond im Schnitt von der Erde entfernt?|384400|Kilometer
+Wissenschaft und Natur|n|Wie groß ist der Durchmesser der Erde?|12742|Kilometer
+Wissenschaft und Natur|n|Wie schnell ist Licht (gerundet)?|299792|Kilometer pro Sekunde
+Wissenschaft und Natur|n|Wie viele Liter Blut hat ein Erwachsener ungefähr?|5|Liter
+Wissenschaft und Natur|n|Wie viele Elemente hat das Periodensystem?|118|Elemente
+Wissenschaft und Natur|n|Wie viele Zähne hat ein Erwachsener mit Weisheitszähnen?|32|Zähne
+Wissenschaft und Natur|n|Wie viele Tage dauert ein Jahr auf dem Mars ungefähr?|687|Erdtage
+Wissenschaft und Natur|n|Wie viele Herzen hat ein Oktopus?|3|Herzen
+Wissenschaft und Natur|n|Wie viele Monate dauert eine Elefanten-Schwangerschaft ungefähr?|22|Monate
+Wissenschaft und Natur|n|Wie schnell kann ein Gepard ungefähr sprinten?|110|km/h
+Wissenschaft und Natur|n|Wie viele Augen hat eine Honigbiene?|5|Augen
+Wissenschaft und Natur|n|Wie viele Monde hat der Mars?|2|Monde
+Wissenschaft und Natur|n|Wie heiß ist die Oberfläche der Sonne ungefähr?|5500|Grad Celsius
+Wissenschaft und Natur|n|Wie viel Prozent der Erdoberfläche sind mit Wasser bedeckt?|71|Prozent
+Wissenschaft und Natur|n|Wie viele Chromosomen hat ein Mensch?|46|Chromosomen
+Wissenschaft und Natur|n|Bei wie viel Grad Fahrenheit kocht Wasser?|212|Grad Fahrenheit
+Wissenschaft und Natur|n|Wie viele Minuten braucht Sonnenlicht ungefähr bis zur Erde?|8|Minuten
+Wissenschaft und Natur|n|Wie schwer ist ein menschliches Gehirn ungefähr?|1400|Gramm
+Wissenschaft und Natur|w|Wie lautet das chemische Symbol für Gold?|Au
+Wissenschaft und Natur|w|Was ist der größte Planet unseres Sonnensystems?|Jupiter
+Wissenschaft und Natur|w|Welcher Planet ist der Sonne am nächsten?|Merkur;Mercury
+Wissenschaft und Natur|w|Was ist das härteste natürliche Material?|Diamant;Diamond
+Wissenschaft und Natur|w|Was ist das größte Organ des Menschen?|Haut
+Wissenschaft und Natur|w|Welches Säugetier kann richtig fliegen?|Fledermaus;Fledermäuse;Flughund
+Wissenschaft und Natur|w|Wer entwickelte die Relativitätstheorie?|Albert Einstein;Einstein
+Wissenschaft und Natur|w|Welches Gas geben Pflanzen bei der Photosynthese ab?|Sauerstoff;O2;Oxygen
+Wissenschaft und Natur|w|Was ist das größte Tier der Welt?|Blauwal;Blue Whale
+Wissenschaft und Natur|w|Wie heißt unsere Galaxie?|Milchstraße;Milky Way
+Musik|n|In welchem Jahr erschien Michael Jacksons Album „Thriller“?|1982|Jahr
+Musik|n|In welchem Jahr trennten sich die Beatles?|1970|Jahr
+Musik|n|In welchem Jahr starb Elvis Presley?|1977|Jahr
+Musik|n|In welchem Jahr gewann Lena den Eurovision Song Contest?|2010|Jahr
+Musik|n|Wie alt wurde Freddie Mercury?|45|Jahre
+Musik|n|In welchem Jahr erschien „Bohemian Rhapsody“ von Queen?|1975|Jahr
+Musik|n|In welchem Jahr erschien das erste Album von Taylor Swift?|2006|Jahr
+Musik|n|Wie alt wurde Kurt Cobain?|27|Jahre
+Musik|n|In welchem Jahr gewann ABBA den ESC mit „Waterloo“?|1974|Jahr
+Musik|n|Wie alt wurde Michael Jackson?|50|Jahre
+Musik|n|In welchem Jahr starb John Lennon?|1980|Jahr
+Musik|n|In welchem Jahr erschien „Smells Like Teen Spirit“?|1991|Jahr
+Musik|n|In welchem Jahr erschien „Gangnam Style“?|2012|Jahr
+Musik|n|In welchem Jahr erschien „Despacito“?|2017|Jahr
+Musik|n|In welchem Jahr gründeten sich die Rolling Stones?|1962|Jahr
+Musik|n|Wie viele Mitglieder hatten die Spice Girls?|5|Mitglieder
+Musik|n|In welchem Jahr fand das Woodstock-Festival statt?|1969|Jahr
+Musik|n|Wie viele Sinfonien komponierte Beethoven?|9|Sinfonien
+Musik|n|In welchem Jahr wurde Mozart geboren?|1756|Jahr
+Musik|n|In welchem Jahr erschien „99 Luftballons“ von Nena?|1983|Jahr
+Musik|w|Wie heißt der Sänger von Queen?|Freddie Mercury;Mercury;Freddie
+Musik|w|Welche Band sang „Wonderwall“?|Oasis
+Musik|w|Wer sang „Shape of You“?|Ed Sheeran;Sheeran
+Musik|w|Wer sang „Rolling in the Deep“?|Adele
+Musik|w|Wer sang „Bad Guy“ (2019)?|Billie Eilish;Eilish
+Musik|w|Aus welchem Land kommt ABBA?|Schweden;Sweden
+Musik|w|Wer komponierte „Die Zauberflöte“?|Wolfgang Amadeus Mozart;Mozart
+Musik|w|Unter welchem Namen rappt Marshall Mathers?|Eminem;Slim Shady
+Musik|w|Welche Band sang „Smells Like Teen Spirit“?|Nirvana
+Musik|w|Wer sang „Atemlos durch die Nacht“?|Helene Fischer;Fischer
+Musik|w|Wer wird „King of Pop“ genannt?|Michael Jackson;Jackson
+Musik|w|In welcher Band singt Mick Jagger?|The Rolling Stones;Rolling Stones;Stones
+Film und Serien|n|In welchem Jahr erschien der Film „Titanic“?|1997|Jahr
+Film und Serien|n|Wie viele Oscars gewann der Film „Titanic“?|11|Oscars
+Film und Serien|n|In welchem Jahr erschien der erste „Star Wars“-Film?|1977|Jahr
+Film und Serien|n|Wie viele Staffeln hat „Friends“?|10|Staffeln
+Film und Serien|n|Wie viele Staffeln hat „Game of Thrones“?|8|Staffeln
+Film und Serien|n|Wie viele Folgen hat „Breaking Bad“ insgesamt?|62|Folgen
+Film und Serien|n|In welchem Jahr erschien „Der König der Löwen“ (Zeichentrick)?|1994|Jahr
+Film und Serien|n|Wie viele Harry-Potter-Filme gibt es?|8|Filme
+Film und Serien|n|In welchem Jahr lief die erste reguläre Folge der Simpsons?|1989|Jahr
+Film und Serien|n|In welchem Jahr erschien der erste James-Bond-Film?|1962|Jahr
+Film und Serien|n|Wie lang ist der Film „Avatar“ (2009)?|162|Minuten
+Film und Serien|n|In welchem Jahr erschien „Jurassic Park“?|1993|Jahr
+Film und Serien|n|In welchem Jahr erschien „Matrix“?|1999|Jahr
+Film und Serien|n|In welchem Jahr erschien „Zurück in die Zukunft“?|1985|Jahr
+Film und Serien|n|In welchem Jahr erschien „Toy Story“?|1995|Jahr
+Film und Serien|n|In welchem Jahr erschien „Die Eiskönigin“?|2013|Jahr
+Film und Serien|n|In welchem Jahr erschien „Avengers: Endgame“?|2019|Jahr
+Film und Serien|n|In welchem Jahr startete „Squid Game“ auf Netflix?|2021|Jahr
+Film und Serien|n|In welchem Jahr erschien der „Barbie“-Film mit Margot Robbie?|2023|Jahr
+Film und Serien|n|Wie viele Oscars gewann „Oppenheimer“?|7|Oscars
+Film und Serien|n|In wie vielen Bond-Filmen spielte Daniel Craig James Bond?|5|Filme
+Film und Serien|n|In welchem Jahr erschien „Der Schuh des Manitu“?|2001|Jahr
+Film und Serien|w|Wer spielt Jack in „Titanic“?|Leonardo DiCaprio;DiCaprio;Leo DiCaprio
+Film und Serien|w|Wie heißt der graue Zauberer in „Der Herr der Ringe“?|Gandalf
+Film und Serien|w|Wie heißt der Chemielehrer in „Breaking Bad“?|Walter White;Walter;Heisenberg;Walt
+Film und Serien|w|Wie heißt die Eiskönigin?|Elsa
+Film und Serien|w|Wie heißt Simbas Vater?|Mufasa
+Film und Serien|w|Wer ist der Vater von Luke Skywalker?|Darth Vader;Vader;Anakin Skywalker;Anakin
+Film und Serien|w|Wie heißt das Café in „Friends“?|Central Perk
+Film und Serien|w|In welcher Stadt leben die Simpsons?|Springfield
+Film und Serien|w|Wer führte Regie bei „Jurassic Park“?|Steven Spielberg;Spielberg
+Film und Serien|w|Wie heißt der Hobbit, der den Ring nach Mordor trägt?|Frodo;Frodo Beutlin;Frodo Baggins
+Film und Serien|w|Welcher Schauspieler spielte Iron Man?|Robert Downey Jr.;Robert Downey;Downey
+Sport|n|In welchem Jahr fand die erste Fußball-WM statt?|1930|Jahr
+Sport|n|Wie oft wurde Brasilien Fußball-Weltmeister?|5|Titel
+Sport|n|Wie viele Tore fielen im WM-Halbfinale Brasilien gegen Deutschland 2014 insgesamt?|8|Tore
+Sport|n|Wie viele Grand-Slam-Titel im Einzel gewann Steffi Graf?|22|Titel
+Sport|n|Wie viele Formel-1-WM-Titel hat Michael Schumacher?|7|Titel
+Sport|n|Wie lang ist ein Marathon?|42.195|Kilometer
+Sport|n|Wie viele Ringe hat die olympische Flagge?|5|Ringe
+Sport|n|In welchem Jahr wurde Deutschland zum ersten Mal Fußball-Weltmeister?|1954|Jahr
+Sport|n|Wie oft wurde die deutsche Männer-Nationalmannschaft Fußball-Weltmeister?|4|Titel
+Sport|n|Wie viele Spieler einer Volleyballmannschaft stehen auf dem Feld?|6|Spieler
+Sport|n|Wie hoch hängt ein Basketballkorb?|305|Zentimeter
+Sport|n|Wie breit ist ein Fußballtor?|7.32|Meter
+Sport|n|Wie viele Löcher hat ein normaler Golfplatz?|18|Löcher
+Sport|n|In welchem Jahr fanden die ersten modernen Olympischen Spiele statt?|1896|Jahr
+Sport|n|Wie viele olympische Goldmedaillen gewann Michael Phelps?|23|Medaillen
+Sport|n|In welchem Jahr fanden die Olympischen Spiele in München statt?|1972|Jahr
+Sport|n|Wie oft wurde Sebastian Vettel Formel-1-Weltmeister?|4|Titel
+Sport|n|Wie schnell lief Usain Bolt beim 100-Meter-Weltrekord?|9.58|Sekunden
+Sport|n|Wie oft gewann Roger Federer Wimbledon im Einzel?|8|Titel
+Sport|n|Wie lang ist ein olympisches Schwimmbecken?|50|Meter
+Sport|n|Wie viele Punkte zählt ein Touchdown im American Football?|6|Punkte
+Sport|n|Wie hoch ist der Weltrekord im Hochsprung der Männer?|2.45|Meter
+Sport|w|Welches Land hat die meisten Fußball-WM-Titel?|Brasilien;Brazil
+Sport|w|In welcher Stadt fanden die Olympischen Sommerspiele 2024 statt?|Paris
+Sport|w|Welcher Fußballer wurde „der Kaiser“ genannt?|Franz Beckenbauer;Beckenbauer
+Sport|w|Welcher Verein hat die meisten Bundesliga-Titel?|FC Bayern München;Bayern München;FC Bayern;Bayern
+Sport|w|In welcher Stadt findet das Tennisturnier Wimbledon statt?|London
+Sport|w|Wer schoss das Siegtor im WM-Finale 2014?|Mario Götze;Götze;Goetze
+Sport|w|Welches Land wurde 2022 Fußball-Weltmeister?|Argentinien;Argentina
+Sport|w|In welcher Sportart wird die Tour de France gefahren?|Radsport;Radfahren;Radrennen;Fahrrad;Rad
+Sport|w|Welche Sportart wird in der NBA gespielt?|Basketball
+Sport|w|Wer hält den Weltrekord über 100 Meter?|Usain Bolt;Bolt
+Technik und Games|n|In welchem Jahr kam das erste iPhone raus?|2007|Jahr
+Technik und Games|n|In welchem Jahr wurde Google gegründet?|1998|Jahr
+Technik und Games|n|In welchem Jahr wurde Facebook gegründet?|2004|Jahr
+Technik und Games|n|In welchem Jahr ging YouTube an den Start?|2005|Jahr
+Technik und Games|n|In welchem Jahr startete Instagram?|2010|Jahr
+Technik und Games|n|In welchem Jahr wurde Spotify gegründet?|2006|Jahr
+Technik und Games|n|In welchem Jahr wurde WhatsApp gegründet?|2009|Jahr
+Technik und Games|n|In welchem Jahr ging Wikipedia online?|2001|Jahr
+Technik und Games|n|In welchem Jahr wurde Amazon gegründet?|1994|Jahr
+Technik und Games|n|In welchem Jahr wurde Apple gegründet?|1976|Jahr
+Technik und Games|n|In welchem Jahr wurde Microsoft gegründet?|1975|Jahr
+Technik und Games|n|In welchem Jahr wurde die erste SMS verschickt?|1992|Jahr
+Technik und Games|n|Wie viele Zeichen durfte ein Tweet ursprünglich haben?|140|Zeichen
+Technik und Games|n|Wie viele Pokémon gab es in der ersten Generation?|151|Pokémon
+Technik und Games|n|In welchem Jahr erschien „Super Mario Bros.“ für das NES?|1985|Jahr
+Technik und Games|n|In welchem Jahr kam die erste PlayStation in Japan raus?|1994|Jahr
+Technik und Games|n|In welchem Jahr erschien die Vollversion von Minecraft?|2011|Jahr
+Technik und Games|n|In welchem Jahr erschien „Pac-Man“?|1980|Jahr
+Technik und Games|n|In welchem Jahr erschien „Fortnite“?|2017|Jahr
+Technik und Games|n|In welchem Jahr erschien „GTA V“?|2013|Jahr
+Technik und Games|n|In welchem Jahr kam die Nintendo Switch raus?|2017|Jahr
+Technik und Games|n|In welchem Jahr kam der erste Game Boy raus?|1989|Jahr
+Technik und Games|n|In welchem Jahr erschien „Pokémon Go“?|2016|Jahr
+Technik und Games|w|Wer gründete Microsoft zusammen mit Paul Allen?|Bill Gates;Gates
+Technik und Games|w|Wer gründete Facebook?|Mark Zuckerberg;Zuckerberg
+Technik und Games|w|Wie heißt Marios Bruder?|Luigi
+Technik und Games|w|Wie heißt der Held der „Zelda“-Spiele?|Link
+Technik und Games|w|Welche Firma stellt die PlayStation her?|Sony
+Technik und Games|w|Wie heißt das gelbe Elektro-Pokémon von Ash?|Pikachu
+Technik und Games|w|Welche Firma entwickelt „Fortnite“?|Epic Games;Epic
+Technik und Games|w|Wofür steht „www“?|World Wide Web
+Technik und Games|w|Aus welchem Land kommt Samsung?|Südkorea;Korea;South Korea
+Technik und Games|w|Wer meldete 1876 das Telefon zum Patent an?|Alexander Graham Bell;Graham Bell;Bell
+Technik und Games|w|Wie heißt Apples Sprachassistent?|Siri
+Alltag und Popkultur|n|Wie viele Sekunden hat ein Tag?|86400|Sekunden
+Alltag und Popkultur|n|Wie viele Minuten hat eine Woche?|10080|Minuten
+Alltag und Popkultur|n|Wie schwer ist ein Liter Wasser?|1000|Gramm
+Alltag und Popkultur|n|Wie viele Tasten hat ein klassisches Klavier?|88|Tasten
+Alltag und Popkultur|n|Wie viele Karten hat ein Skatblatt?|32|Karten
+Alltag und Popkultur|n|Wie viele farbige Felder hat ein Zauberwürfel insgesamt?|54|Felder
+Alltag und Popkultur|n|Wie viele Felder hat ein Schachbrett?|64|Felder
+Alltag und Popkultur|n|Wie viele Augen hat ein normaler Würfel insgesamt?|21|Augen
+Alltag und Popkultur|n|Wie viele Felder hat ein Monopoly-Spielbrett?|40|Felder
+Alltag und Popkultur|n|Wie viele Steine hat ein klassisches Domino-Spiel?|28|Steine
+Alltag und Popkultur|n|Wie viele Kästchen hat ein Sudoku?|81|Kästchen
+Alltag und Popkultur|n|Wie viele Saiten hat eine normale Gitarre?|6|Saiten
+Alltag und Popkultur|n|In welchem Jahr wurde Coca-Cola erfunden?|1886|Jahr
+Alltag und Popkultur|n|In welchem Jahr wurde IKEA gegründet?|1943|Jahr
+Alltag und Popkultur|n|In welchem Jahr wurde LEGO gegründet?|1932|Jahr
+Alltag und Popkultur|n|In welchem Jahr wurde Haribo gegründet?|1920|Jahr
+Alltag und Popkultur|n|In welchem Jahr kam der VW Golf auf den Markt?|1974|Jahr
+Alltag und Popkultur|n|In welchem Jahr erschien das erste Harry-Potter-Buch?|1997|Jahr
+Alltag und Popkultur|w|Wie heißt Harry Potters Eule?|Hedwig
+Alltag und Popkultur|w|Wie heißt die Schule von Harry Potter?|Hogwarts
+Alltag und Popkultur|w|Wie heißt der Assistent von Sherlock Holmes?|Dr. Watson;Watson;John Watson
+Alltag und Popkultur|w|Wer erfand die Figur Sherlock Holmes?|Arthur Conan Doyle;Conan Doyle;Doyle
+Alltag und Popkultur|w|In welchem Brettspiel gibt es die Schlossallee?|Monopoly
+Alltag und Popkultur|w|Aus welchem Land stammt die Pizza?|Italien;Italy
+Alltag und Popkultur|w|Welche Farbe entsteht aus Blau und Gelb?|Grün;Green
+Alltag und Popkultur|w|Aus welchem Land kommt IKEA?|Schweden;Sweden
+Alltag und Popkultur|w|Wie heißt der Hund von Micky Maus?|Pluto
+Alltag und Popkultur|w|In welcher Stadt kämpft Batman gegen das Verbrechen?|Gotham;Gotham City
